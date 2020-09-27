@@ -11,7 +11,7 @@ import java.io.IOException;
 import static org.mockito.Mockito.*;
 import static org.mockito.MockitoAnnotations.openMocks;
 
-public class HangmanTests {
+public class HangmanTest {
 
     private static final String WORD_TO_GUESS = "banana";
 
