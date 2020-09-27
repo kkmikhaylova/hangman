@@ -1,1 +1,5 @@
 language: java
+install:
+  - pip install codecov
+after_success:
+  - codecov
